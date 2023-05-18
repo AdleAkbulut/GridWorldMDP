@@ -1,4 +1,8 @@
 # GridWorldMDP
+
+<img width="442" alt="image" src="https://github.com/AdleAkbulut/GridWorldMDP/assets/89936866/49e6690a-543a-4bec-b536-44be94eeb348">
+
+
 An MDP simulator that drives the best policy and the utilities related to the best policy on a 2x3 grid.
 
 This repository holds the files that contains the simulator and the tests. 
